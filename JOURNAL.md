@@ -111,5 +111,5 @@ Next I will continue working on the electronics and firmware and eventually move
 * Organized existing project work
 * Planned the next development steps
 
-Total time spent: [ENTER ACTUAL TIME]
+Total time spent: 7.2 hour 
 images- ![CAD Design](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/cad%20images%204.png)
