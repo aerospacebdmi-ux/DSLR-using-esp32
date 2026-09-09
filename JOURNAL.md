@@ -15,3 +15,4 @@ I don't have the hardware yet, so today's work was focused on the design and pla
 * Planned the next steps for the electronics and firmware
 
 Next, I'll refine the CAD design and work on the software and hardware architecture while I source the components needed for the physical prototype.
+![CAD Design](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/cad%20images%201.png)
