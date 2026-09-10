@@ -93,6 +93,7 @@ I organized the project files and started putting the CAD, G-code and other proj
 * Prepared the repository for future firmware and documentation
 
 Total time spent: 1 hour
+![CAD Design](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%206%204.png)
 
 ---
 
