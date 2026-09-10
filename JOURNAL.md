@@ -27,7 +27,7 @@ I decided to use an ESP32 as the main controller and started deciding what other
 * Decided on the basic direction of the project
 
 Total time spent: 2 hours
-![Day 2](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day2.png)
+[![Day 2](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day2.png)](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%202.png)
 ---
 
 # September 05, 2026 — Day 3 — CAD Design
@@ -44,7 +44,7 @@ I designed the first version of the camera body and worked on its overall shape 
 * Worked on the overall dimensions and shape
 
 Total time spent: 2 hours
-![Day 3](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day3.png)
+[![Day 3](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day3.png)](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%203.png)
 ---
 
 # September 06, 2026 — Day 4 — G-code
@@ -60,7 +60,7 @@ The goal was to prepare the files that could eventually be used to manufacture t
 * Organized the files for later use
 
 Total time spent: 2 hours
-![Day 4](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day4.png)
+[![Day 4] (https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%204.png)
 ---
 
 # September 07, 2026 — Day 5 — Wiring Research
@@ -76,7 +76,7 @@ I looked into how the ESP32 and the other components would connect together. I w
 * Looked into the electronics needed for the project
 
 Total time spent: 2 hours
-![Day 5](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day5.png)
+[![Day 5](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day5.png)](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%205.png)
 
 ---
 
@@ -94,8 +94,7 @@ I organized the project files and started putting the CAD, G-code and other proj
 * Prepared the repository for future firmware and documentation
 
 Total time spent: 1 hour
-![Day 6](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day6.png)
-
+https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%206.png
 ---
 
 # September 09, 2026 — Day 7 — Forge Setup & Documentation
@@ -115,4 +114,5 @@ Next I will continue working on the electronics and firmware and eventually move
 
 Total time spent: 1.5 hours
 
-images- ![Day 7](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day7.png)![Day 7](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day7.png)
+[images- ![Day 7]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%207.png)
