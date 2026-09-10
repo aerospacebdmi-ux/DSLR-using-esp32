@@ -116,3 +116,23 @@ Total time spent: 1.5 hours
 
 [images- ![Day 7]
 ](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%207.png)
+[images- ![Day 1]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%201.png)
+
+[images- ![Day 2]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%202.png)
+
+[images- ![Day 3]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%203.png)
+
+[images- ![Day 4]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%204.png)
+
+[images- ![Day 5]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%205.png)
+
+[images- ![Day 6]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%206.png)
+
+[images- ![Day 7]
+](https://raw.githubusercontent.com/aerospacebdmi-ux/DSLR-using-esp32/main/day%207.png)
